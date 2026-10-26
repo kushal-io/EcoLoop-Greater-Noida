@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e-waste",
+    "name": "E-Waste",
+    "description": "Discarded electronics, batteries, cables, circuit boards, and appliances",
+    "points_per_kg": 20,
+    "hazard_weight": 2.5,
+    "icon": "devices"
+  },
+  {
+    "id": "plastic",
+    "name": "Plastic",
+    "description": "Bottles, rigid containers, packaging plastic, clean polyethylene",
+    "points_per_kg": 10,
+    "hazard_weight": 1.2,
+    "icon": "recycling"
+  },
+  {
+    "id": "paper",
+    "name": "Paper & Cardboard",
+    "description": "Cardboard boxes, newspapers, books, office paper",
+    "points_per_kg": 5,
+    "hazard_weight": 1.0,
+    "icon": "description"
+  },
+  {
+    "id": "metal",
+    "name": "Metal",
+    "description": "Beverage cans, tin boxes, steel scrap, copper, aluminum containers",
+    "points_per_kg": 15,
+    "hazard_weight": 1.3,
+    "icon": "hardware"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "description": "Glass bottles, jars, broken cullet, transparent glass containers",
+    "points_per_kg": 8,
+    "hazard_weight": 1.1,
+    "icon": "wine_bar"
+  }
+]
